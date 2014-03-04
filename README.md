@@ -1,4 +1,5 @@
 local_manifests
 ===============
 
-Local Manifest for sony xperia M custom firmwares 
+repo init -u git://github.com/percy-g2/local_manifests.git -b 4.0.4_r2.1
+repo sync
